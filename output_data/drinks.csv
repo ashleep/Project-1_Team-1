@@ -1,5 +1,4 @@
 Drink ID,Name,Category,Alcoholic,Glass,Ingredients,Measure
-<<<<<<< HEAD
 15567,Adam Sunrise,Ordinary Drink,True,Collins Glass,"['Vodka', 'Lemonade', 'Water', 'Sugar']","['1/2 ', '1/2 can ', '1/2 ', '10 tsp ']"
 17141,Smut,Punch / Party Drink,True,Beer mug,"['Red wine', 'Peach schnapps', 'Pepsi Cola', 'Orange juice']","['1/3 part ', '1 shot ', '1/3 part ', '1/3 part ']"
 15200,A Day at the Beach,Ordinary Drink,True,Highball glass,"['Coconut rum', 'Amaretto', 'Orange juice', 'Grenadine']","['1 oz ', '1/2 oz ', '4 oz ', '1/2 oz ']"
@@ -99,7 +98,6 @@ Drink ID,Name,Category,Alcoholic,Glass,Ingredients,Measure
 17233,Salted Toffee Martini,Cocktail,True,Cocktail glass,"['Gin', 'Chocolate liqueur', 'Amaretto', 'Chocolate Sauce', 'Salted Chocolate']","['50 ml ', '30 ml ', '15 ml', 'Garnish', 'Grated']"
 12914,Egg-Nog - Classic Cooked,Punch / Party Drink,True,Pitcher,"['Egg', 'Sugar', 'Salt', 'Milk', 'Vanilla extract']","['6 ', '1/4 cup ', '1/4 tsp ', '1 qt ', '1 tsp ']"
 12618,Orangeade,Cocktail,False,Highball glass,"['Lemon juice', 'Orange juice', 'Sugar syrup', 'Soda water']","['5 cl ', '15 cl ', '2-3 cl ', None]"
-=======
 17222,A1,Cocktail,True,cocktail glass,"['Gin', 'Grand Marnier', 'Lemon Juice', 'Grenadine']","['1 3/4 shot ', '1 Shot ', '1/4 Shot', '1/8 Shot']"
 13501,ABC,Shot,True,shot glass,"['Amaretto', 'Baileys irish cream', 'Cognac']","['1/3 ', '1/3 ', '1/3 ']"
 17225,Ace,Cocktail,True,martini glass,"['Gin', 'Grenadine', 'Heavy cream', 'Milk', 'Egg White']","['2 shots ', '1/2 shot ', '1/2 shot ', '1/2 shot', '1/2 Fresh']"
@@ -486,4 +484,3 @@ Drink ID,Name,Category,Alcoholic,Glass,Ingredients,Measure
 13899,3 Wise Men,Shot,True,collins glass,"['Jack Daniels', 'Johnnie Walker', 'Jim Beam']","['1/3 oz ', '1/3 oz ', '1/3 oz ']"
 14598,50/50,Ordinary Drink,True,collins glass,"['Vanilla vodka', 'Grand Marnier', 'Orange juice']","['2 1/2 oz ', '1 splash ', 'Fill with ']"
 14229,747,Shot,True,shot glass,"['Kahlua', 'Baileys irish cream', 'Frangelico']","['1/3 part ', '1/3 part ', '1/3 part ']"
->>>>>>> master
